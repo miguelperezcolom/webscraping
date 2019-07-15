@@ -23,7 +23,9 @@ public class App
         testJsch();
 
 
-        System.out.println( "master zz" );
+        System.out.println( "rama1!" );
+
+        System.out.println("aaa");
     }
 
     private static void testJsch() {
