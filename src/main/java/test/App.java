@@ -24,6 +24,8 @@ public class App
 
 
         System.out.println( "rama1!" );
+
+        System.out.println("aaa");
     }
 
     private static void testJsch() {
