@@ -23,7 +23,7 @@ public class App
         testJsch();
 
 
-        System.out.println( "master" );
+        System.out.println( "master zz" );
     }
 
     private static void testJsch() {
