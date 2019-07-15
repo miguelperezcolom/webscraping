@@ -23,7 +23,7 @@ public class App
         testJsch();
 
 
-        System.out.println( "Hello World!" );
+        System.out.println( "rama1!" );
     }
 
     private static void testJsch() {
